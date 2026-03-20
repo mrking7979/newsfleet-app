@@ -47,7 +47,7 @@ src/
 Click **Code → Download ZIP**  
 OR use git:
 
-git clone https://github.com/your-username/newsfleet.git
+git clone https://github.com/mrking7979/newsfleet-app.git
 
 ---
 
