@@ -44,8 +44,6 @@ src/
 
 ## 🧾 Step 1: Download the project
 
-Click **Code → Download ZIP**  
-OR use git:
 
 git clone https://github.com/mrking7979/newsfleet-app.git
 
@@ -108,13 +106,6 @@ Try:
 
 npm install  
 npm start  
-
----
-
-# 🌐 Live Demo (Optional)
-
-Add your deployed link here:  
-https://your-app.vercel.app
 
 ---
 
